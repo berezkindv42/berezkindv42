@@ -2,9 +2,11 @@
 
 Automation QA student of qa.guru school
 
-Linkedin  - nope
-Telegram  - @berezkindv
-GitHub    - You here
+- Linkedin  - nope
+- Telegram  - @berezkindv
+- GitHub    - You here
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=great-gatsby)
 
