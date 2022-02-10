@@ -12,7 +12,7 @@ Currently student of automation qa course at qa.guru school.
 
 
 
-#### May the Force be with you
+> May the Force be with you
 <!--
 **berezkindv42/berezkindv42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
