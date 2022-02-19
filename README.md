@@ -8,7 +8,7 @@ Currently student of automation qa course at qa.guru school.
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=great-gatsby)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berezkindv42&show_icons=true&theme=great-gatsby)
 
 
 
