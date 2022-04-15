@@ -2,9 +2,8 @@
 
 Currently student of automation qa course at qa.guru school.
 
-- Linkedin  - nope
 - Telegram  - @berezkindv
-- GitHub    - You here
+- GitHub    - You are here
 
 
 
