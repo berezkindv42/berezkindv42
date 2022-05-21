@@ -4,7 +4,7 @@
 
 Мои дипломные проекты на курсе:
 
-### <img src="images/logos/Chrome.svg" width="25" height="16"  alt="Android"/></a> UI проект по тестированию отправки почты в gmail. [ginhub link](https://github.com/berezkindv42/berezkindv_diploma_ui_tests_project) \
+### <img src="images/logos/Chrome.svg" width="25" height="25"  alt="Android"/></a> UI проект по тестированию отправки почты в gmail. [ginhub link](https://github.com/berezkindv42/berezkindv_diploma_ui_tests_project)
 Проект запускается как локально, так и на удаленном сервере selenoid с помущью jenkins, по завершении отправляется отчет в telegram. \
 Выполненные проверки:
 - Логин
@@ -12,8 +12,8 @@
 - Соответствие заголовка страницы.
 - Проверка лога консоли на наличие ошибок.
 
-### <img src="images/logos/Rest-Assured.svg" width="25" height="16"  alt="Android"/></a> API проект тестированию сайта [reqres.in](https://reqres.in/). [github link](https://github.com/berezkindv42/berezkindv_diploma_rest_api_tests_project) \
-Проект так же запускается как локально, так и на удаленном сервере selenoid с помущью jenkins, по завершении так же отправляется отчет в telegram. \
+### <img src="images/logos/Rest-Assured.svg" width="25" height="25"  alt="Android"/></a> API проект тестированию сайта [reqres.in](https://reqres.in/). [github link](https://github.com/berezkindv42/berezkindv_diploma_rest_api_tests_project)
+Проект так же запускается как локально, так и на удаленном сервере selenoid с помощью jenkins, по завершении так же отправляется отчет в telegram. \
 Выполненные проверки:
 - Проверка списка пользователей.
 - Проверка отдельного пользователя.
@@ -22,7 +22,7 @@
 - Проверка отдельного ресурса.
 - и другие.
 
-### <img src="images/logos/Android.svg" width="25" height="16"  alt="Android"/></a> Проект по тестированию мобильного приложения Википедии. [github link](https://github.com/berezkindv42/berezkindv_diploma_mobile_tests_project) \
+### <img src="images/logos/Android.svg" width="25" height="25"  alt="Android"/></a> Проект по тестированию мобильного приложения Википедии. [github link](https://github.com/berezkindv42/berezkindv_diploma_mobile_tests_project)
 Проект настроен для запуска на сервисе [browserstack](https://www.browserstack.com/) с помощью jenkins, есть возможность запустить на локально развернутом эмуляторе android studio и реальном девайсе. \
 Выполненные проверки:
 - Тест страниц приветствия.
