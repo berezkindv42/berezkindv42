@@ -22,7 +22,7 @@
 - Проверка отдельного ресурса.
 - и другие.
 
-### <img src="images/logos/Android.svg" width="25" height="25"  alt="Android"/></a> Проект по тестированию мобильного приложения Википедии. [github link](https://github.com/berezkindv42/berezkindv_diploma_mobile_tests_project)
+### <img src="images/logos/Android.svg" width="35" height="25"  alt="Android"/></a> Проект по тестированию мобильного приложения Википедии. [github link](https://github.com/berezkindv42/berezkindv_diploma_mobile_tests_project)
 Проект настроен для запуска на сервисе [browserstack](https://www.browserstack.com/) с помощью jenkins, есть возможность запустить на локально развернутом эмуляторе android studio и реальном девайсе. \
 Выполненные проверки:
 - Тест страниц приветствия.
