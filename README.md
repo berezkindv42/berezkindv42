@@ -32,7 +32,7 @@
 - Тест добавления русского языка.
 - Тест пунктов основного меню.
 
-#### На связи:
+На связи:
 - <img src="images/logos/Telegram.svg" width="15" height="15"  alt="Allure"/> Telegram  - @berezkindv
 - <img src="images/logos/Github.svg" width="15" height="15"  alt="Github"/> GitHub    - You are here
 
