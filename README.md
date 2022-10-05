@@ -42,7 +42,7 @@
 
 
 
-> May the Force be with you
+> May the mind be with you
 <!--
 **berezkindv42/berezkindv42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
